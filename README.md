@@ -1,6 +1,5 @@
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-### Hi 🙋‍♂️,
-### I'm Maksim Khvashchynski. I'm a Ruby on Rails Developer 🚀 from Belarus.
+### Hi 🙋‍♂️, I'm Maksim Khvashchynski. I'm a Ruby on Rails Developer 🚀 from Belarus.
 <a href="https://t.me/cos404">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
