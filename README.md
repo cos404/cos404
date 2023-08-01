@@ -1,6 +1,5 @@
 ### Hi 🙋‍♂️, I'm Maksim. I'm a Ruby on Rails Developer 🚀 from Belarus.
 <br />
-<br />
 
 <p align="center">
   <a href="https://t.me/cos404">
@@ -11,9 +10,6 @@
     <img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
 </p>
-
-<br />
-<br />
 
 <p align="center"><b>Languages and Tools...</b></p>
 
