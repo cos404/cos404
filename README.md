@@ -1,4 +1,4 @@
-<h3 align="center">### Hi 🙋‍♂️, I'm Maksim. I'm a Ruby on Rails Developer 🚀 from Belarus.</p>
+<h3 align="center">Hi 🙋‍♂️, I'm Maksim. I'm a Ruby on Rails Developer 🚀 from Belarus.</p>
 <br />
 
 <p align="center">
