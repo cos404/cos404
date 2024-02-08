@@ -31,6 +31,6 @@
 
 <p align="center">
   <a href="https://github.com/cos404">
-    <img src="https://komarev.com/ghpvc/?username=cos404&label=Visited%20my%20profile:&color=0d1117&style=flat" style="width: 150px; cursor: pointer"/>
+    <img src="https://komarev.com/ghpvc/?username=cos404&label=Visited%20my%20profile:&color=bddbff&style=flat" style="width: 150px; cursor: pointer"/>
   </a>
 </p>
