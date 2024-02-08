@@ -28,3 +28,5 @@
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=cos404&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=prussian" />
   </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=cos404&label=Visited%20my%20profile:&color=0d1117&style=flat" align="right" style="width: 150px; cursor: pointer"/>
