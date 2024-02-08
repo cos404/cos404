@@ -29,4 +29,8 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=cos404&label=Visited%20my%20profile:&color=0d1117&style=flat" align="right" style="width: 150px; cursor: pointer"/>
+<p align="center">
+  <a href="https://github.com/cos404">
+    <img src="https://komarev.com/ghpvc/?username=cos404&label=Visited%20my%20profile:&color=0d1117&style=flat" align="right" style="width: 150px; cursor: pointer"/>
+  </a>
+</p>
